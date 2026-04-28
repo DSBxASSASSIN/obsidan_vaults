@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"aa13b6a0933583ac","type":"file","file":"pictures/characters/Kael/kael back.jpg","x":3180,"y":693,"width":400,"height":225},
+		{"id":"333a8d2df7f06ff1","type":"file","file":"pictures/characters/Kael/kael side.jpg","x":3680,"y":693,"width":400,"height":225},
+		{"id":"6fc22262dfd60add","type":"file","file":"pictures/characters/Kael/kael close up.jpg","x":3680,"y":400,"width":400,"height":225},
+		{"id":"9f5ba6855dda27b5","type":"file","file":"pictures/characters/Kael/kael front.jpg","x":3180,"y":400,"width":400,"height":225},
+		{"id":"abdeddfe81aed672","x":3500,"y":300,"width":250,"height":60,"type":"text","text":"Kael Appearance"},
+		{"id":"b15322d54b0bd680","type":"file","file":"pictures/characters/Saya/saya close up.jpg","x":2540,"y":400,"width":400,"height":225},
+		{"id":"26fc39d93375a84c","type":"file","file":"pictures/characters/Saya/saya side.jpg","x":2540,"y":693,"width":400,"height":225},
+		{"id":"81559766822edd83","type":"file","file":"pictures/characters/Saya/saya back.jpg","x":2040,"y":693,"width":400,"height":225},
+		{"id":"756f4cd7a4ac16da","type":"file","file":"pictures/characters/Saya/Saya front.jpg","x":2040,"y":400,"width":400,"height":225},
+		{"id":"9d9e961457f66c3b","type":"file","file":"pictures/characters/Voruna/voruna back.jpg","x":1340,"y":693,"width":400,"height":225},
+		{"id":"a9a32c2bce0600a3","x":2360,"y":300,"width":250,"height":60,"type":"text","text":"Saya appearance "},
+		{"id":"fc56ae1ae9d6f189","x":1415,"y":270,"width":250,"height":60,"type":"text","text":"Voruna appearance"},
+		{"id":"04195b9507279600","type":"file","file":"pictures/characters/Voruna/voruna front.jpg","x":1340,"y":400,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"ac3c9d0dc5eb923d","fromNode":"fc56ae1ae9d6f189","fromSide":"bottom","toNode":"04195b9507279600","toSide":"top"},
+		{"id":"b080d4f585104360","fromNode":"04195b9507279600","fromSide":"bottom","toNode":"9d9e961457f66c3b","toSide":"top"},
+		{"id":"dde4510a12d100b9","fromNode":"a9a32c2bce0600a3","fromSide":"left","toNode":"756f4cd7a4ac16da","toSide":"top"},
+		{"id":"7aa677e889a75bb8","fromNode":"a9a32c2bce0600a3","fromSide":"right","toNode":"b15322d54b0bd680","toSide":"top"},
+		{"id":"a514d552735355cc","fromNode":"756f4cd7a4ac16da","fromSide":"bottom","toNode":"81559766822edd83","toSide":"top"},
+		{"id":"c91b3aebd3c7b030","fromNode":"b15322d54b0bd680","fromSide":"bottom","toNode":"26fc39d93375a84c","toSide":"top"},
+		{"id":"67268b365b7983d5","fromNode":"abdeddfe81aed672","fromSide":"left","toNode":"9f5ba6855dda27b5","toSide":"top"},
+		{"id":"91a614bdfa293b46","fromNode":"abdeddfe81aed672","fromSide":"right","toNode":"6fc22262dfd60add","toSide":"top"},
+		{"id":"1ec5ceecf160ace9","fromNode":"6fc22262dfd60add","fromSide":"bottom","toNode":"333a8d2df7f06ff1","toSide":"top"},
+		{"id":"fce04498515813a9","fromNode":"9f5ba6855dda27b5","fromSide":"bottom","toNode":"aa13b6a0933583ac","toSide":"top"}
+	]
+}
