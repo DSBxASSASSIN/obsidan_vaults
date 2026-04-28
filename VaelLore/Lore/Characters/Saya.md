@@ -6,11 +6,13 @@
 
 ## At a Glance
 
-|**Role**|Empress, Throne, Leader|
-|**People**|[Vael](../Factions/The%20Vael%20People.md)|
-|**Age at fall of Vaelos**|16|
-|**Operator Preset**|[[Saya Presets]]|
-|**What she doesn't know**|[The Volunteer](../Concepts/The%20Volunteer.md)|
+| **Role**                  | Empress, Throne, Leader                          |
+| ------------------------- | ------------------------------------------------ |
+| **People**                | [Vael](../Factions/The%20Vael%20People.md)       |
+| **Age at fall of Vaelos** | 16                                               |
+| **Operator Preset**       | [[Saya Presets]]                                 |
+| **What she doesn't know** |  [The Volunteer](../Concepts/The%20Volunteer.md) |
+
 
 ---
 

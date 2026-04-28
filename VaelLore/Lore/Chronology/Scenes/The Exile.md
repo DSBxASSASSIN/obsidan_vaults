@@ -5,9 +5,11 @@
 Occurs shortly after [The Watch](The_Watch.md).
 
 Involves:
+
 - [Kael](Kael.md)
 - [Saya](Saya.md)
-- [The Vael People](../Lore/Factions/The%20Vael%20People.md)
+- [Sorin](Sorin.md)
+- [The Vael People](The%20Vael%20People.md)
 
 ---
 
@@ -111,19 +113,49 @@ Because looking back wouldn't change anything, and she had always understood tha
 
 ---
 
+Sorin was at the gate when she came through it.
+
+He wasn't supposed to be. He'd been on rotation elsewhere and there was no reason for him to be standing exactly there at exactly that hour unless he'd heard and positioned himself deliberately, which she knew immediately was what had happened.
+
+He didn't say anything.
+
+Neither did she.
+
+She walked past him and he fell into step two paces behind her — the old distance, the trained distance, the one that meant _I am here and not in your way_ — and she let him walk with her until the gate was out of sight.
+
+Then she stopped.
+
+"Go back," she said.
+
+"No."
+
+She looked at him.
+
+He looked back.
+
+"That's an order."
+
+"Yes," he said. And didn't move.
+
+She held his gaze for a moment. Then she kept walking.
+
+He followed.
+
+She didn't tell him where she was going. He didn't ask.
+
+---
+
 She was halfway across the outer district when she stopped.
 
-Stood there for a moment in the empty street.
+The gold trim caught the light.
 
-Let herself have the full weight of what had just happened — not the exile, not Saya's face, but the question underneath all of it that she had not let herself ask out loud yet.
+She looked down at it for a moment. The subtle accent along the edge of her coat — present the way it was always present, quiet, not announcing itself.
 
-*What if she's right.*
+Still intact.
 
-Not about the exile.
+Still saying what it had always said.
 
-About the rest of it.
-
-She stood with that for a long time.
+She stood with that for a moment — the specific weight of carrying a thing that said _I am loved, I have a place at her side_ while walking away from both.
 
 Then she kept walking.
 
@@ -134,4 +166,4 @@ Then she kept walking.
 - Saya's formal choice is deliberate — she is acting as empress, not just as a sister
 - Kael does not defend herself because she has nothing that would hold
 - "What if she's right" — the doubt turns inward for the first time
-- The exile and Kael's self-exile are the same thing
+- The gold is intact when she leaves — it will not stay that way

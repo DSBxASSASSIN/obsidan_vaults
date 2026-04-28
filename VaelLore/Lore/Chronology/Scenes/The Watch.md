@@ -7,9 +7,9 @@ Occurs during the reconstruction period, after the Vael survivors have been gath
 Involves:
 - [Kael](Kael.md)
 - [Saya](Saya.md)
-- [The Vael People](../Lore/Factions/The%20Vael%20People.md)
+- [The Vael People](The%20Vael%20People.md)
 
-Precedes [The Exile](The_Exile.md).
+Precedes [The Exile](The%20Exile.md).
 
 ---
 

@@ -47,7 +47,7 @@
 ## Aftermath
 
 - Kael begins recovery/search phase
-- First Warframe contact (see: [First Contact](../Scenes/First%20Contact.md))
+- First Warframe contact (see: [First Contact](First%20Contact.md))
 - Discovery of Warframe “residual presence”
 
 ---

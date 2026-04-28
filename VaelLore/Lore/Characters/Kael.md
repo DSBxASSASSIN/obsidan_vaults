@@ -6,11 +6,12 @@
 
 ## At a Glance
 
-|**Role**|Protector, Blade, Operative|
-|**People**|[Vael](../Factions/The%20Vael%20People.md)|
-|**Age at fall of Vaelos**|19|
-|**Drifter Presets**|[Kael Presets](../../FashionFrame/Kael%20Presets.md)|
-|**Key secret**|[The Volunteer](../Concepts/The%20Volunteer.md)|
+|**Role**                 |Protector, Blade, Operative                         |
+| ----------------------- | -------------------------------------------------- |
+|**People**               |[Vael](../Factions/The%20Vael%20People.md)          |
+|**Age at fall of Vaelos**|19                                                  |
+|**Drifter Presets**      |[Kael Presets](../../FashionFrame/Kael%20Presets.md)|
+|**Key secret**           |[The Volunteer](../Concepts/The%20Volunteer.md)     |
 
 ---
 

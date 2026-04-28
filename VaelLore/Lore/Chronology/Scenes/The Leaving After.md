@@ -5,9 +5,11 @@
 Occurs approximately six weeks into the exile period.
 
 Involves:
+
 - [Kael](Kael.md)
 - [Saya](Saya.md)
-- [The Warframes](../Lore/Concepts/The%20Warframes.md)
+- [Sorin](Sorin.md)
+- [The Warframes](The%20Warframes.md)
 
 ---
 
@@ -18,6 +20,20 @@ She felt it through the Between before the report reached her.
 Not the specifics. Just the particular pressure that meant something was moving toward Saya — the way the current shifted when something that meant harm got close to the thing she was anchored to even from a distance. She had not known the anchor worked this far out.
 
 She was already moving when the details resolved.
+
+---
+
+"Stay here," she told Sorin.
+
+He looked at her.
+
+"This one is mine," she said. "Hold the relay."
+
+A pause. He read her face the way he always read it — quickly, thoroughly, without making it visible that he was doing so.
+
+Then he nodded.
+
+She left him there and took Voruna into the outer districts alone.
 
 ---
 
@@ -41,7 +57,13 @@ She handled the threat.
 
 Voruna was fast and Kael was faster and the contact did not have the opportunity to complete what they had come to do. She was thorough. She made sure.
 
-Then she stood at the edge of the building and looked across the district toward the lights of home and she stayed there for a long time.
+The frames took more damage.
+
+She noted it distantly — new scoring along Voruna's flank, the gold trim near the collar gone entirely now where it had caught the edge of something in the close work. She didn't stop to look at it. There wasn't time.
+
+Then the work was done and there was time and she stood at the edge of the building and looked across the district toward the lights of home.
+
+She stood there for a long time.
 
 ---
 
@@ -55,7 +77,37 @@ She could come home.
 
 ---
 
+She looked down at the frames.
+
+The gold was worse than she'd catalogued. The fight had taken more of it than she'd registered mid-mission — a long section along the shoulder gone, the wrist trim worn to bare metal in two places, what remained dull and scored and nothing like what it had been.
+
+She stood with that.
+
+She knew what the gold said when it was intact. She had worn it for years and known exactly what it meant — _I am loved, I have a place at her side_ — and it had been enough. Through Garuda and Valkyr and Voruna, through every dark thing, it had been enough.
+
+She looked at what was left of it now.
+
+She had evidence. She had been right. The threat was real and she had proven it and she could walk through those lights and hand Saya something solid and ask to come home.
+
+And Saya had stood in that courtyard with witnesses and said: _I don't know what you are right now._
+
+And the gold said — in the state it was in, scored and worn and missing in patches — almost nothing at all.
+
+---
+
 She turned and walked the other direction.
+
+---
+
+Sorin was where she'd left him when she got back.
+
+He took one look at the frames — the new damage, the missing trim — and said nothing. He moved to take inventory of what needed repair, quietly, without being asked. She let him. She sat down against the wall and started cataloguing the evidence she'd pulled from the contact's effects.
+
+After a while he stopped next to her and set down a cup of something hot.
+
+Then he went back to the frames.
+
+Neither of them spoke.
 
 ---
 
@@ -85,6 +137,8 @@ Both things.
 
 Before she went home.
 
+Before the gold had anything to say again.
+
 ---
 
 Saya's people found the contact's body the next morning.
@@ -104,6 +158,8 @@ She didn't need to.
 ## Notes
 
 - Kael intercepts the second attempt but does not return
+- The gold is damaged further in the fight — she notices, she sits with it, she walks away anyway
 - The evidence exists now — she does not bring it herself
 - "Being right is not the same as being stable" — the doubt is distinct from the question of the threat
+- She doesn't go home yet because she doesn't trust what the gold is telling her anymore
 - Saya receives the evidence and understands immediately

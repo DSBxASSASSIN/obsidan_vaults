@@ -2,7 +2,7 @@
 
 ## Context
 
-Occurs after the fall of [The Orokin](../Lore/Factions/The%20Orokin.md), during Kael’s initial recovery phase while searching abandoned facilities.
+Occurs after the fall of [The Orokin](The%20Orokin.md), during Kael’s initial recovery phase while searching abandoned facilities.
 
 ---
 
