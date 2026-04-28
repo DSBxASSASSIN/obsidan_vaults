@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Chronology/Scenes/The Return Not Yet.md",
+                "file": "Lore/Locations/Velanthas.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Return Not Yet"
+              "title": "Velanthas"
             }
           }
         ]
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Chronology/Scenes/The Return Not Yet.md",
+                "file": "Lore/Locations/Velanthas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Return Not Yet"
+              "title": "Outline of Velanthas"
             }
           }
         ],
@@ -186,18 +186,20 @@
   },
   "active": "b26e60c8392af315",
   "lastOpenFiles": [
-    "anoying git note.md",
-    "Lore/Chronology/Scenes/The Return Not Yet.md",
-    "Lore/Chronology/Scenes/The Gold Anchor — Failure.md",
+    "Lore/Characters/Saya.md",
+    "Lore/Characters/Kael.md",
+    "Lore/Locations/Velanthas.md",
+    "Lore/Locations/Vaelos.md",
+    "Lore/Chronology/Scenes/The Volunteer — Saya POV.md",
     "Lore/Chronology/Scenes/The First Time Saya Saw.md",
+    "Lore/Chronology/Scenes/The Return Not Yet.md",
+    "anoying git note.md",
+    "Lore/Chronology/Scenes/The Gold Anchor — Failure.md",
     "Lore/Chronology/Scenes/The Exile.md",
     "Lore/Chronology/Scenes/The Distance.md",
     "Lore/Chronology/Scenes/First Contact.md",
     "Lore/Characters/Sorin.md",
-    "Lore/Characters/Saya.md",
-    "Lore/Characters/Kael.md",
     "Home.md",
-    "Lore/Locations/Vaelos.md",
     "Lore/Frames/Voruna.md",
     "Lore/Factions/The Vael People.md",
     "Lore/Factions/The Orokin.md",
@@ -207,14 +209,12 @@
     "Lore/Concepts/The Between.md",
     "Lore/Chronology/Scenes/The Leaving After.md",
     "Lore/Chronology/Scenes/The Watch.md",
-    "Lore/Chronology/Scenes/The Volunteer — Saya POV.md",
     "Lore/Chronology/Scenes/The Volunteer — Session One.md",
     "Lore/Timeline.md",
     "Lore/Chronology",
     "Untitled.base",
     "2026-04-27.md",
     "Untitled",
-    "Scenes/The Return Not Yet old.md",
     "Lore/Frames",
     "Lore/Chronology/Scenes",
     "Lore"
