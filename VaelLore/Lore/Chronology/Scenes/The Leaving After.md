@@ -6,10 +6,10 @@ Occurs approximately six weeks into the exile period.
 
 Involves:
 
-- [Kael](Kael.md)
-- [Saya](Saya.md)
-- [Sorin](Sorin.md)
-- [The Warframes](The%20Warframes.md)
+- [Kael](https://claude.ai/chat/Kael.md)
+- [Saya](https://claude.ai/chat/Saya.md)
+- [Sorin](https://claude.ai/chat/Sorin.md)
+- [The Warframes](https://claude.ai/chat/The%20Warframes.md)
 
 ---
 
@@ -33,13 +33,41 @@ A pause. He read her face the way he always read it — quickly, thoroughly, wit
 
 Then he nodded.
 
-She left him there and took Voruna into the outer districts alone.
+She left him there.
+
+She did not take Voruna.
+
+---
+
+She went back first.
+
+Not through the main entrance. Not through anything that would put her in view of the guard rotation, the attendants, anyone who would have to report it. She knew the relay's structure better than anyone alive. She had helped build it.
+
+She knew which corridor stayed unmonitored between the third and fourth watch.
+
+She was in under ten minutes.
+
+When she opened the door to her collection the room was dark and still.
+
+Then — one by one, without sound — they turned toward her.
+
+All of them.
+
+Just the heads. Nothing else moved. No shift of weight, no step, no reaching. Only that slow unanimous turn, each frame orienting to her presence the way a compass finds north. They had never done it for anyone else. She knew because she had checked, once, quietly, after the first time it happened.
+
+She had not told anyone what she found.
+
+She crossed to Cyte-09 and stood in front of it. The only frame in the room that had never been to the field. She had maintained it carefully, catalogued it, kept it in the queue — always something more pressing.
+
+She took it now.
+
+She did not look at the others when she left.
 
 ---
 
 It came from a different angle than she'd expected.
 
-Not from inside — from outside, a contact in the outer districts with access that should not have existed, a route that required knowledge of Saya's schedule that was not public. She tracked it fast, moving through the outer territory with Voruna, and she understood within the first hour what she was looking at.
+Not from inside — from outside, a position on the upper tier of the public district, elevated, sightline across the open plaza where Saya's schedule placed her mid-morning. A route that required knowledge of the schedule that was not public. She tracked it fast, moving through the outer territory, and she understood within the first hour what she was looking at.
 
 The contact had a name.
 
@@ -53,17 +81,77 @@ Not airtight. Close enough.
 
 ---
 
-She handled the threat.
+She found her position before they found theirs.
 
-Voruna was fast and Kael was faster and the contact did not have the opportunity to complete what they had come to do. She was thorough. She made sure.
+High ground, further back, angle clear.
 
-The frames took more damage.
+She settled into Cyte-09 and waited.
 
-She noted it distantly — new scoring along Voruna's flank, the gold trim near the collar gone entirely now where it had caught the edge of something in the close work. She didn't stop to look at it. There wasn't time.
+The frame was strange in the way she had known it would be — precise, contained, nothing bleeding through at the edges. No pull toward the contact. No instinct to close distance. Just the scope, the calculation, the particular stillness of a frame that processed the world in terms of angles and windows and the exact moment between a breath drawn and a breath released.
 
-Then the work was done and there was time and she stood at the edge of the building and looked across the district toward the lights of home.
+She did not like it.
 
-She stood there for a long time.
+She was very good at it.
+
+---
+
+Saya came out into the plaza with her attendants and her guard and the particular composure she wore in public like a second garment. Upright. Steady. The gold catching the light.
+
+Kael tracked the contact through the scope without looking at her sister.
+
+She made herself not look.
+
+---
+
+When the window opened she took it.
+
+Clean.
+
+Once.
+
+The contact did not have the opportunity to complete what they had come to do.
+
+She was thorough. She made sure.
+
+---
+
+The shot crossed the plaza before anyone understood what had happened.
+
+Then the guard moved — closing around Saya, hands going to weapons, eyes and weapons locking onto the contact's position. Someone already shouting the direction. Moving toward the threat that was no longer a threat.
+
+Saya did not look where they were looking.
+
+She went still instead.
+
+And looked up.
+
+Not toward the contact. Not toward the commotion her guard was making of it. Directly up, and across, and to the exact elevation Kael was standing at.
+
+The distance was significant.
+
+It did not matter.
+
+Kael did not move either.
+
+For a moment — just a moment — there was nothing between them except the width of the plaza and the fact of what had just happened and six weeks of silence that had not made either of them less able to find the other in a crowd.
+
+Then Kael stepped back from the edge.
+
+She left Cyte-09 where it was — propped against the wall of the nest, clean and unmarked, no gold, no signature.
+
+Then the guard reached Saya and she let them move her inside.
+
+She cleared her position before the rotation could close the perimeter.
+
+---
+
+She stopped at the edge of the city where the buildings gave way to open ground.
+
+The sun was going down.
+
+The light caught the relay across the distance — Velanthas, its towers and walls, the whole structure burning amber and deep gold in the last of it. The kind of gold that belonged to the hour and not to anyone. The kind that did not mean anything.
+
+She stood there for a long time anyway.
 
 ---
 
@@ -77,21 +165,23 @@ She could come home.
 
 ---
 
-She looked down at the frames.
+The light held for a moment longer.
 
-The gold was worse than she'd catalogued. The fight had taken more of it than she'd registered mid-mission — a long section along the shoulder gone, the wrist trim worn to bare metal in two places, what remained dull and scored and nothing like what it had been.
+Everything it touched looked like it meant something.
 
-She stood with that.
+She knew what the gold said when she wore it — when it was intact on Voruna's collar and wrists and she was going somewhere dark and it was there to tell her: _I am loved, I have a place at her side._ She had worn it for years and it had been enough. Through every dark thing it had been enough.
 
-She knew what the gold said when it was intact. She had worn it for years and known exactly what it meant — _I am loved, I have a place at her side_ — and it had been enough. Through Garuda and Valkyr and Voruna, through every dark thing, it had been enough.
+She was not wearing it now.
 
-She looked at what was left of it now.
+She had nothing on her that said that.
 
 She had evidence. She had been right. The threat was real and she had proven it and she could walk through those lights and hand Saya something solid and ask to come home.
 
 And Saya had stood in that courtyard with witnesses and said: _I don't know what you are right now._
 
-And the gold said — in the state it was in, scored and worn and missing in patches — almost nothing at all.
+The sun finished setting.
+
+The gold went out.
 
 ---
 
@@ -99,29 +189,27 @@ She turned and walked the other direction.
 
 ---
 
-Sorin was where she'd left him when she got back.
+Sorin was where she'd left him when she got back to the abandoned relay.
 
-He took one look at the frames — the new damage, the missing trim — and said nothing. He moved to take inventory of what needed repair, quietly, without being asked. She let him. She sat down against the wall and started cataloguing the evidence she'd pulled from the contact's effects.
+He was working on his armor — methodical, unhurried, the kind of maintenance that occupies hands without requiring thought. He glanced up when she came in, read whatever was in her face, and looked back down.
 
-After a while he stopped next to her and set down a cup of something hot.
+She sat against the wall.
 
-Then he went back to the frames.
+After a while he set down what he was doing and brought her something hot. Set it next to her without comment. Then he went back to the armor.
 
-Neither of them spoke.
+A long quiet passed.
+
+"Can you go back now?" he said.
+
+She looked at the cup.
+
+"Not yet."
+
+He nodded once. Picked up where he'd left off.
 
 ---
 
-Not because she didn't want to.
-
-Because she wanted to be sure first. Fully sure, every connection solid, nothing that could be argued against. She wanted to hand Saya something that didn't require her to trust her sister's damaged perception. She wanted to give her certainty rather than ask her to provide it.
-
-And because.
-
-There was still the other question.
-
-She had handled the threat tonight. She had moved well, thought clearly, acted precisely. The Between had told her true and she had been right and the evidence was there.
-
-But she had also been right in the courtyard.
+She had been right in the courtyard too.
 
 She had been right and it had looked, from where Saya was standing, exactly like what Saya had feared.
 
@@ -141,15 +229,13 @@ Before the gold had anything to say again.
 
 ---
 
-Saya's people found the contact's body the next morning.
+Saya's guard reached the contact's position within the hour.
 
-They found the evidence too — she had left it where they would find it, catalogued and clear. Not signed. Not explained. Just present, because it needed to exist somewhere she wasn't holding it.
-
-She heard, through channels she maintained quietly, that Saya had stood looking at it for a long time before she spoke.
+She heard, through channels she maintained quietly, that Saya had stood looking at what her guard brought her for a long time before she spoke.
 
 She heard that what Saya said when she finally spoke was not what anyone in the room had expected.
 
-She heard she didn't ask who had left it.
+She heard she didn't ask who had fired the shot.
 
 She didn't need to.
 
@@ -157,9 +243,12 @@ She didn't need to.
 
 ## Notes
 
-- Kael intercepts the second attempt but does not return
-- The gold is damaged further in the fight — she notices, she sits with it, she walks away anyway
-- The evidence exists now — she does not bring it herself
+- Kael leaves Sorin and Voruna at the abandoned relay — she goes back to Velanthas alone to steal Cyte-09
+- Cyte-09 — never worn in the field, left at her own nest when she steps back from the edge
+- Guards lock on the contact's position; Saya looks to Kael's — watches her leave, then lets herself be moved inside
+- The gold reflection happens at sunset — Velanthas burning gold in the last light, the kind that belongs to no one
+- She returns to the abandoned relay with nothing on her — Sorin reads her face, not a frame
+- Sorin's single question — "Can you go back now?" — carries what the scene has been building to
 - "Being right is not the same as being stable" — the doubt is distinct from the question of the threat
 - She doesn't go home yet because she doesn't trust what the gold is telling her anymore
-- Saya receives the evidence and understands immediately
+- Saya doesn't ask who fired the shot — she already knows

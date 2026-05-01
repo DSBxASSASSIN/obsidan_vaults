@@ -9,7 +9,7 @@
 | **Role**                  | Royal Guard                                                            |
 | ------------------------- | ---------------------------------------------------------------------- |
 | **People**                | [Vael](The%20Vael%20People.md)                                         |
-| **Age at fall of Vaelos** | ~19                                                                    |
+| **Age at fall of Vaelos** | 19                                                                     |
 | **Stationed**             | The Relay — home of the surviving Vael                                 |
 | **What he carries**       | The failed rescue. The sole survival. What he heard through the walls. |
 | **What he shows**         | None of it.                                                            |
@@ -44,39 +44,29 @@ He did not know how much later would cost.
 
 ### The Fall
 
-When [Vaelos](Vaelos.md) burned, Sorin fought. When the [Orokin](The%20Orokin.md) took the sisters, he organized what he could — a small group, the people left who were willing, a plan that was more determination than strategy.
+When [Vaelos](Vaelos.md) fell, Sorin's father died at his post. High command was wiped out in the first strike. Sorin watched the princesses being taken and organized what survivors he could find.
 
-The mission failed inside the facility.
+He led fourteen men into the Orokin facility to get them back.
 
-The Orokin were too many and too prepared and the group was inexperienced against the full weight of an empire's security. They were captured. They were not royalty, so they were not valuable. They were held separately, processed as soldiers, kept in a different part of the same facility where the sisters were being experimented on.
+He was the only one who came out.
 
-Sorin was the only one who came back from that mission.
+He has never told anyone a rescue was attempted. Not [[Kael]]. Not [[Saya]]. 
 
-He has never told anyone a rescue was attempted. Not [[Kael]]. Not [[Saya]]. Not anyone who survived to ask.
+→ See [[The Rescue Attempt]] for the full account.
 
 ### The Facility
 
-He was held for the duration of the Orokin's interest in their captives — categorized, contained, kept alive because killing him served no purpose and freeing him served none either.
-
-He was held separately from [[Kael]] and [[Saya]].
+He was captured during the attempt and held in the same facility for the duration of the Orokin's interest in their captives — separated from [[Kael]] and [[Saya]], unable to reach them.
 
 The facility had walls, not silence.
 
 He knew, in outline, that something was being done to them. Not the specifics — not [The Volunteer](The%20Volunteer.md), not the nature of the experiments, not the full weight of what the Orokin were extracting. Just the knowledge that the sounds that came through the walls belonged to someone he had been trained to protect and he could not reach them.
 
-He had seen veterans come back from bad things before the fall. He knew what that looked like in a body. When the Orokin collapsed and he got out in the same chaos the sisters did, he looked at [[Kael]] and recognized it immediately.
-
-He did not ask.
-
-He has never asked.
+He has never said what he heard.
 
 ### After the Fall
 
-When the [Orokin](The%20Orokin.md) fell, Sorin found [[Kael]] in the aftermath and presented himself as what he was — a surviving royal guard candidate, trained, Vael, with nowhere else to be and no interest in being anywhere else.
-
-He did not mention the facility. He did not mention the mission. He did not mention his father.
-
-[[Kael]] looked at him for a long moment when he first appeared. He felt the particular quality of her attention — the Between moving through it, reading something under the surface — and held still and said nothing.
+When the [Orokin](The%20Orokin.md) collapsed, Sorin found [[Kael]] in the aftermath. He recognized immediately what the months had done to her and said nothing. He presented himself as what he was — a surviving guard candidate, trained, Vael, with nowhere else to be.
 
 She accepted him.
 
@@ -104,19 +94,13 @@ He is respectful to [[Saya]]. Completely, formally, without reservation. But if 
 
 [[Saya]] understands this. She does not entirely disapprove.
 
-During the exile, when she found him posted outside the door of the relay station [[Kael]] had claimed, she told him he was AWOL.
+During the exile, when [[Saya]] found him posted outside the door of the relay station [[Kael]] had claimed, she told him he was AWOL. He agreed. She told him [[Kael]] was exiled. He agreed.
 
-He agreed that he was.
+_Exile doesn't change who she is,_ he said.
 
-She told him he knew [[Kael]] was exiled.
+She walked past him through the door. He stayed outside.
 
-He agreed that he did.
-
-_I'm doing my duty,_ he said. _I stand by royalty._
-
-She looked at him for a long moment. Then she walked past him through the door.
-
-He stayed outside.
+→ See [[The Return Not Yet]]
 
 ---
 
@@ -178,6 +162,7 @@ He has not decided yet whether he will.
 
 Scenes featuring Sorin, in rough chronological order:
 
+- [[The Rescue Attempt]] ← _Fourteen men. One came back._
 - [[The Exile]] ← _He positions himself at the gate before she gets there._
 - [[The Distance]] ← _He finds her at the relay. She tries to make him leave._
 - [[The Leaving After]] ← _She leaves him to hold the relay. He does._

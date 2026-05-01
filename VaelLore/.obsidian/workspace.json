@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b84e0cd25e46e9e6",
+        "id": "453d4989ac80adc6",
         "type": "tabs",
         "children": [
           {
             "id": "b26e60c8392af315",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Characters/Sorin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sorin"
             }
           }
         ]
@@ -152,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "voruna1.png",
+                "file": "Lore/Characters/Sorin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of voruna1"
+              "title": "Outline of Sorin"
             }
           }
         ],
@@ -179,16 +184,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "92cc7405c16300ce",
+  "active": "b26e60c8392af315",
   "lastOpenFiles": [
+    "Lore/Characters/Sorin.md",
+    "Lore/Characters/Sorin.md",
+    "Lore/Chronology/Scenes/The Rescue Attempt.md",
+    "Lore/Chronology/Scenes/The Return Not Yet rewrite.md",
+    "copilot/copilot-conversations/Restoring_Sensory_Details_to_Scene@20260430_131325.md",
+    "copilot/copilot-conversations/i_like_the_amount_of_detail_more_from_the_old@20260430_130800.md",
+    "copilot/copilot-conversations/i_like_the_amount_of_detail_more_from_the_old@20260430_125309.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Untitled.canvas",
+    "Lore/Chronology/Scenes/The Return Not Yet.md",
+    "Lore/Chronology/Scenes/The Leaving After.md",
+    "Lore/Chronology/Scenes/The Leaving After rewrite.md",
+    "Lore/Locations/Velanthas.md",
+    "FashionFrame/pictues from ingame.canvas",
+    "voruna1.png",
     "Warframe0000.jpg",
     "voruna1 1.png",
-    "voruna1.png",
     "pictures/characters/Voruna/voruna back.jpg",
     "pictures/characters/Voruna",
     "pictures/characters/Saya/saya back.jpg",
     "pictures/characters/Kael/kael back.jpg",
-    "FashionFrame/pictues from ingame.canvas",
     "pictures/characters/Saya",
     "pictures/characters/Kael",
     "pictures/characters",
@@ -197,36 +232,7 @@
     "pictures/characters/Kael/kael close up.jpg",
     "pictures/characters/Kael/kael front.jpg",
     "pictures/characters/Saya/saya close up.jpg",
-    "pictures/characters/Saya/saya side.jpg",
-    "Lore/Locations/Velanthas.md",
-    "Lore/Characters/Saya.md",
-    "Lore/Characters/Kael.md",
-    "Lore/Locations/Vaelos.md",
-    "Lore/Chronology/Scenes/The Volunteer — Saya POV.md",
-    "Lore/Chronology/Scenes/The First Time Saya Saw.md",
-    "Lore/Chronology/Scenes/The Return Not Yet.md",
-    "anoying git note.md",
-    "Lore/Chronology/Scenes/The Gold Anchor — Failure.md",
-    "Lore/Chronology/Scenes/The Exile.md",
-    "Lore/Chronology/Scenes/The Distance.md",
-    "Lore/Chronology/Scenes/First Contact.md",
-    "Lore/Characters/Sorin.md",
-    "Home.md",
-    "Lore/Frames/Voruna.md",
-    "Lore/Factions/The Vael People.md",
-    "Lore/Factions/The Orokin.md",
-    "Lore/Concepts/The Warframes.md",
-    "Lore/Concepts/The Volunteer.md",
-    "Lore/Concepts/The Gold Anchor.md",
-    "Lore/Concepts/The Between.md",
-    "Lore/Chronology/Scenes/The Leaving After.md",
-    "Lore/Chronology/Scenes/The Watch.md",
-    "Lore/Chronology/Scenes/The Volunteer — Session One.md",
-    "Lore/Timeline.md",
     "Lore/Chronology",
-    "Untitled.base",
-    "Lore/Frames",
-    "Lore/Chronology/Scenes",
-    "Lore"
+    "Untitled.base"
   ]
 }

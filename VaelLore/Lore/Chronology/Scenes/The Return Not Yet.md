@@ -2,7 +2,7 @@
 
 ## Context
 
-Occurs approximately two weeks after [The Leaving After](The_Leaving_After.md).
+Occurs approximately two weeks after [The Leaving After](The%20Leaving%20After.md).
 
 Involves:
 
@@ -56,7 +56,7 @@ Saya looked at him for a moment.
 
 She held his gaze. He held hers. Neither of them looked away.
 
-"I'm doing my duty," he said. "I stand by royalty."
+"I'm doing my duty," he said. "I'm doing my duty, Guarding royalty."
 
 Something moved across Saya's expression — not quite a smile, not quite irritation. Something that understood exactly what he was doing and could not entirely argue with it.
 
@@ -68,9 +68,9 @@ He stayed outside.
 
 ---
 
-Her eyes moved to the frames racked along the wall.
+Her eyes moved to Voruna against the wall.
 
-She looked at them for a moment longer than she looked at anything else.
+She looked at it for a moment longer than she looked at anything else.
 
 Then she stepped inside.
 
