@@ -2,14 +2,14 @@
 
 ## Context
 
-Occurs after repeated Warframe use following [The Volunteer](The%20Volunteer.md).
+Occurs after repeated Warframe use following [[The Volunteer.md]].
 
 Involves:
 
-- [Kael](Kael.md)
-- [Saya — The Younger Sister](Saya%20%E2%80%94%20The%20Younger%20Sister.md)
-- [The Warframes](Lore/Concepts/The%20Warframes.md)
-- [The Gold Anchor](The%20Gold%20Anchor.md)
+- [[Kael.md]]
+- [[Saya]]
+- [[Lore/Concepts/The Warframes.md]]
+- [[The Gold Anchor.md]]
 
 Precedes the formalization of the Gold Anchor practice.
 
@@ -127,7 +127,7 @@ Next time, she would not go in empty.
 
 ## Notes
 
-- Precedes the formalization of [The Gold Anchor](The%20Gold%20Anchor.md)
+- Precedes the formalization of [[The Gold Anchor.md]]
 - First time Saya's voice alone is enough to stop the Warframe
 - Establishes overflow as distinct from rage or loss
 - "Almost" is the word the whole scene turns on

@@ -1,12 +1,12 @@
 # Scene: The Volunteer — Session One
 
 ## Context
-First experiment following [The Volunteer](The%20Volunteer.md)
+First experiment following [[The Volunteer.md]]
 
 Involves:
-- [Kael](Kael.md)
-- [The Orokin](The%20Orokin.md)
-- [The Between](The%20Between.md)
+- [[Kael.md]]
+- [[The Orokin.md]]
+- [[The Between.md]]
 
 ---
 

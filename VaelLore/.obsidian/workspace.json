@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "453d4989ac80adc6",
+        "id": "21f4e63fb927bb59",
         "type": "tabs",
         "children": [
           {
-            "id": "b26e60c8392af315",
+            "id": "79eb03a5771afbe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Characters/Sorin.md",
-                "mode": "source",
+                "file": "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sorin"
+              "title": "Repairing the Gold rewrite"
             }
           }
         ]
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Characters/Sorin.md",
+                "file": "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sorin"
+              "title": "Outline of Repairing the Gold rewrite"
             }
           }
         ],
@@ -184,39 +184,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "b26e60c8392af315",
+  "active": "79eb03a5771afbe1",
   "lastOpenFiles": [
-    "Lore/Characters/Sorin.md",
-    "Lore/Characters/Sorin.md",
+    "Lore/Chronology/Scenes/Repairing the Gold.md",
+    "Lore/Chronology/Scenes/First Contact.md",
+    "Lore/Chronology/Scenes/The Volunteer — Saya POV.md",
+    "Lore/Chronology/Scenes/The Volunteer — Session One.md",
+    "Lore/Chronology/Scenes/The Return Not Yet.md",
+    "Lore/Frames/Jade.md",
     "Lore/Chronology/Scenes/The Rescue Attempt.md",
-    "Lore/Chronology/Scenes/The Return Not Yet rewrite.md",
-    "copilot/copilot-conversations/Restoring_Sensory_Details_to_Scene@20260430_131325.md",
-    "copilot/copilot-conversations/i_like_the_amount_of_detail_more_from_the_old@20260430_130800.md",
+    "Lore/Characters/Sorin.md",
+    "Lore/Chronology/Scenes/The Leaving After.md",
+    "Lore/Chronology/Scenes/The Palace.md",
+    "Lore/Chronology/Scenes/Uriel's Killing Spree.md",
+    "Lore/Frames/Harrow.md",
+    "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
+    "Lore/Frames/Uriel.md",
+    "Lore/Chronology/Scenes/The relay quietly.md",
+    "Lore/Chronology/Scenes/The Locked Room.md",
+    "Lore/Chronology/Scenes/1_scene timeline.canvas",
+    "Lore/Characters/Kael.md",
+    "The Vael People.md",
+    "The Orokin.md",
+    "Lore/Factions/The Orokin.md",
+    "Repairing the Gold.md",
     "copilot/copilot-conversations/i_like_the_amount_of_detail_more_from_the_old@20260430_125309.md",
+    "Lore/Chronology/Scenes/The Gold Anchor — Failure.md",
+    "Lore/Chronology/Scenes/The Watch.md",
+    "Lore/Chronology/Scenes/The First Time Saya Saw.md",
+    "Lore/Chronology/Scenes/The Exile.md",
+    "FashionFrame/pictues from ingame.canvas",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Untitled.canvas",
-    "Lore/Chronology/Scenes/The Return Not Yet.md",
-    "Lore/Chronology/Scenes/The Leaving After.md",
-    "Lore/Chronology/Scenes/The Leaving After rewrite.md",
-    "Lore/Locations/Velanthas.md",
-    "FashionFrame/pictues from ingame.canvas",
     "voruna1.png",
     "Warframe0000.jpg",
     "voruna1 1.png",

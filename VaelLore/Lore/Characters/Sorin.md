@@ -6,19 +6,19 @@
 
 ## At a Glance
 
-| **Role**                  | Royal Guard                                                            |
-| ------------------------- | ---------------------------------------------------------------------- |
-| **People**                | [Vael](The%20Vael%20People.md)                                         |
-| **Age at fall of Vaelos** | 19                                                                     |
-| **Stationed**             | The Relay — home of the surviving Vael                                 |
-| **What he carries**       | The failed rescue. The sole survival. What he heard through the walls. |
-| **What he shows**         | None of it.                                                            |
+|**Role**|Royal Guard|
+|---|---|
+|**People**|[[Vael]]|
+|**Age at fall of Vaelos**|19|
+|**Stationed**|The Relay — home of the surviving Vael|
+|**What he carries**|The failed rescue. The sole survival. What he heard through the walls.|
+|**What he shows**|None of it.|
 
 ---
 
 ## Overview
 
-Sorin is the royal guard of the surviving Vael — stationed at the relay the sisters built near the ruins of [Vaelos](Vaelos.md), present at the edge of every room [[Kael]] occupies, and defined by a loyalty that is so complete it does not require explanation or acknowledgment.
+Sorin is the royal guard of the surviving Vael — stationed at the relay the sisters built near the ruins of [[Vaelos]], present at the edge of every room [[Kael]] occupies, and defined by a loyalty that is so complete it does not require explanation or acknowledgment.
 
 He does not speak much. He does not need to. He has understood since childhood what it means to stand in a place and not move from it, and he has never found a reason to stop.
 
@@ -30,7 +30,7 @@ He does not speak much. He does not need to. He has understood since childhood w
 
 Sorin grew up in a family with a single tradition: the royal guard. His father served the emperor and empress of the Vael — not as a political appointment but as a life's vocation, the particular devotion of someone who has decided that protecting the people who carry a civilization is the most meaningful work available to a person.
 
-His father died at his post when [Vaelos](Vaelos.md) fell. The emperor and empress died with him.
+His father died at his post when [[Vaelos]] fell. The emperor and empress died with him.
 
 Sorin was in training when it happened. Not yet positioned with the royalty — too junior, rotated elsewhere. He was alive because of where he happened to be standing.
 
@@ -44,13 +44,11 @@ He did not know how much later would cost.
 
 ### The Fall
 
-When [Vaelos](Vaelos.md) fell, Sorin's father died at his post. High command was wiped out in the first strike. Sorin watched the princesses being taken and organized what survivors he could find.
+When [[Vaelos]] fell, Sorin's father died at his post. High command was wiped out in the first strike. Sorin watched the princesses being taken and organized what survivors he could find.
 
 He led fourteen men into the Orokin facility to get them back.
 
 He was the only one who came out.
-
-He has never told anyone a rescue was attempted. Not [[Kael]]. Not [[Saya]]. 
 
 → See [[The Rescue Attempt]] for the full account.
 
@@ -60,13 +58,13 @@ He was captured during the attempt and held in the same facility for the duratio
 
 The facility had walls, not silence.
 
-He knew, in outline, that something was being done to them. Not the specifics — not [The Volunteer](The%20Volunteer.md), not the nature of the experiments, not the full weight of what the Orokin were extracting. Just the knowledge that the sounds that came through the walls belonged to someone he had been trained to protect and he could not reach them.
+He knew, in outline, what was being done to them. Not the specifics. Not [[The Volunteer]]. Just enough.
 
 He has never said what he heard.
 
 ### After the Fall
 
-When the [Orokin](The%20Orokin.md) collapsed, Sorin found [[Kael]] in the aftermath. He recognized immediately what the months had done to her and said nothing. He presented himself as what he was — a surviving guard candidate, trained, Vael, with nowhere else to be.
+When the [[Orokin]] collapsed, Sorin found [[Kael]] in the aftermath. He recognized immediately what the months had done to her and said nothing. He presented himself as what he was — a surviving guard candidate, trained, Vael, with nowhere else to be.
 
 She accepted him.
 
@@ -118,13 +116,13 @@ Sorin carries three things that no one else knows:
 
 ## What [[Kael]] Knows
 
-[[Kael]]'s connection to [The Between](The%20Between.md) reads more than she is given. She knows Sorin is hiding something. She has known since the first moment she looked at him in the aftermath and felt the shape of something contained and old and untouched beneath the surface of his presentation.
+[[Kael]]'s connection to [[The Between]] reads more than she is given. She knows Sorin is hiding something. She has known since the first moment she looked at him in the aftermath and felt the shape of something contained and old and untouched beneath the surface of his presentation.
 
 She also knows there is no malice in him. Whatever he carries, it is not a threat to her or to [[Saya]].
 
 So she filed it and left it alone.
 
-She has never told him she knows. He has never told her what he knows. Between them this is an unspoken agreement that functions, in its own way, like the agreement between the sisters about [The Volunteer](The%20Volunteer.md) — a thing both people are aware of, that neither pulls at, that is allowed to stay closed because the cost of opening it is higher than the cost of carrying it.
+She has never told him she knows. He has never told her what he knows. Between them this is an unspoken agreement that functions, in its own way, like the agreement between the sisters about [[The Volunteer]] — a thing both people are aware of, that neither pulls at, that is allowed to stay closed because the cost of opening it is higher than the cost of carrying it.
 
 ---
 
@@ -142,7 +140,7 @@ But she has noticed, in the way Saya notices things, that his loyalty to [[Kael]
 
 ## The Relay
 
-Sorin is stationed at the relay the sisters built near [Vaelos](Vaelos.md) — the home the surviving Vael have made in the shadow of the world they lost. He has his duties, his rotations, his formal role in the structure of the guard.
+Sorin is stationed at the relay the sisters built near [[Vaelos]] — the home the surviving Vael have made in the shadow of the world they lost. He has his duties, his rotations, his formal role in the structure of the guard.
 
 He has not been back to the surface of Vaelos itself.
 
@@ -154,9 +152,9 @@ He has not decided yet whether he will.
 
 - [[Kael]] ← _Who he guards. Who knows he's hiding something and has left it alone._
 - [[Saya]] ← _Who found him in the files. Who understands his loyalty without approving of its order._
-- [The Volunteer](The%20Volunteer.md) ← _What was done to Kael in the facility where he was also held._
-- [Vaelos](Vaelos.md) ← _What they both lost. What neither of them has fully returned to._
-- [The Vael People](The%20Vael%20People.md) ← _Who he serves._
+- [[The Volunteer]] ← _What was done to Kael in the facility where he was also held._
+- [[Vaelos]] ← _What they both lost. What neither of them has fully returned to._
+- [[The Vael People]] ← _Who he serves._
 
 ## Scenes
 

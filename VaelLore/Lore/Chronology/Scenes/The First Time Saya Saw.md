@@ -1,13 +1,13 @@
 # Scene: The First Time Saya Saw
 
 ## Context
-Occurs after [The Volunteer](The%20Volunteer.md) during early Warframe use.
+Occurs after [[The Volunteer.md]] during early Warframe use.
 
 Involves:
-- [Kael](Kael.md)
-- [Saya](Saya.md)
-- [The Warframes](The%20Warframes.md)
-- [The Gold Anchor](The%20Gold%20Anchor.md)
+- [[Kael.md]]
+- [[Saya.md]]
+- [[The Warframes.md]]
+- [[The Gold Anchor.md]]
 
 ---
 
@@ -183,5 +183,5 @@ She already knew it would.
 
 - First time Saya sees Kael in a Warframe state
 - Establishes **recognition instead of fear**
-- Foundation of [The Gold Anchor](The%20Gold%20Anchor.md)
+- Foundation of [[The Gold Anchor.md]]
 - Shows Saya’s strength as *emotional stability*, not combat

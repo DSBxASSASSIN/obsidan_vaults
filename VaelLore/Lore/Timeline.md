@@ -1,15 +1,15 @@
 ## Before the Fall
 
-- Vael civilization thrives on [Vaelos](Locations/Vaelos.md)
-- Stable relationship with [The Between](Concepts/The%20Between.md)
+- Vael civilization thrives on [[Locations/Vaelos.md]]
+- Stable relationship with [[Concepts/The Between.md]]
 - Kael identified as heir
 
 ---
 
 ## Discovery
 
-- [The Orokin](Factions/The%20Orokin.md) detect Void resonance
-- Trace it to [Vaelos](Locations/Vaelos.md)
+- [[Factions/The Orokin.md]] detect Void resonance
+- Trace it to [[Locations/Vaelos.md]]
 
 ---
 
@@ -32,7 +32,7 @@
 ## Experimentation Period
 
 - Repeated sessions on Kael
-- Connection to [The Between](Concepts/The%20Between.md) altered
+- Connection to [[Concepts/The Between.md]] altered
 - Behavioral changes begin
 
 ---
@@ -47,7 +47,7 @@
 ## Aftermath
 
 - Kael begins recovery/search phase
-- First Warframe contact (see: [First Contact](First%20Contact.md))
+- First Warframe contact (see: [[First Contact.md]])
 - Discovery of Warframe “residual presence”
 
 ---
@@ -64,4 +64,4 @@
 
 - Kael continues retrieval operations
 - Increasing anomalies in Warframe response
-- Stability maintained through [The Gold Anchor](Concepts/The%20Gold%20Anchor.md)
+- Stability maintained through [[Concepts/The Gold Anchor.md]]

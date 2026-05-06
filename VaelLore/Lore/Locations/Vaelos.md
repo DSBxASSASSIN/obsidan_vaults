@@ -5,7 +5,7 @@
 
 ## Overview
 
-Vaelos was the homeworld of the [Vael](../Factions/The%20Vael%20People.md) — a planet existing quietly at the edge of charted space, unknown to the wider Origin System until [The Orokin](../Factions/The%20Orokin.md) followed the resonance of [Void energy](../Concepts/The%20Between.md) to its location.
+Vaelos was the homeworld of the [[../Factions/The Vael People.md|Vael]] — a planet existing quietly at the edge of charted space, unknown to the wider Origin System until [[../Factions/The Orokin.md]] followed the resonance of [[../Concepts/The Between.md|Void energy]] to its location.
 
 It is ruins now.
 
@@ -13,7 +13,7 @@ It is ruins now.
 
 ## The Planet
 
-Vaelos sat near a stable, ancient Void rift — not violently active, not dangerous in the way of sudden Void exposure, but _present_, a permanent low hum of [The Between](../Concepts/The%20Between.md) woven through the planet's environment. The [Vael](../Factions/The%20Vael%20People.md) had lived alongside this rift for so many generations that their biology had incorporated it. Their children were born Void-touched the way other children were born with particular traits — it was simply part of them.
+Vaelos sat near a stable, ancient Void rift — not violently active, not dangerous in the way of sudden Void exposure, but _present_, a permanent low hum of [[../Concepts/The Between.md]] woven through the planet's environment. The [[../Factions/The Vael People.md|Vael]] had lived alongside this rift for so many generations that their biology had incorporated it. Their children were born Void-touched the way other children were born with particular traits — it was simply part of them.
 
 The planet itself was not remarkable by Orokin standards. No vast mineral wealth, no strategic chokepoint, no Void anomaly powerful enough to weaponize on its own. What made it valuable to the Orokin was entirely its people.
 
@@ -23,9 +23,9 @@ What made it a home was everything else.
 
 ## The Fall
 
-When [The Orokin](../Factions/The%20Orokin.md) arrived they did not come to negotiate.
+When [[../Factions/The Orokin.md]] arrived they did not come to negotiate.
 
-The war was brief by the standards of wars — the [Vael](../Factions/The%20Vael%20People.md) had warriors and [Void abilities](../Concepts/The%20Between.md) but no army built for the kind of conflict an empire wages. The Orokin brought Warframes, Void weaponry, and the particular ruthlessness of those who have decided in advance that the outcome justifies the cost.
+The war was brief by the standards of wars — the [[../Factions/The Vael People.md|Vael]] had warriors and [[../Concepts/The Between.md|Void abilities]] but no army built for the kind of conflict an empire wages. The Orokin brought Warframes, Void weaponry, and the particular ruthlessness of those who have decided in advance that the outcome justifies the cost.
 
 Vaelos burned. Its cities became ruins. Its people were killed, scattered, or captured.
 
@@ -33,7 +33,7 @@ Of those captured, a number were taken for experimentation — their natural Voi
 
 [[Kael]] and [[Saya]] were among the captured.
 
-→ See [The Volunteer](../Concepts/The%20Volunteer.md) for what happened next.
+→ See [[../Concepts/The Volunteer.md]] for what happened next.
 
 ---
 
@@ -55,7 +55,7 @@ They are the last real piece of it that remains whole.
 
 ## See Also
 
-- [The Vael People](../Factions/The%20Vael%20People.md) ← _Those who called it home_
-- [The Orokin](../Factions/The%20Orokin.md) ← _Those who destroyed it_
+- [[../Factions/The Vael People.md]] ← _Those who called it home_
+- [[../Factions/The Orokin.md]] ← _Those who destroyed it_
 - [[Kael]] ← _She has been back_
-- [The Between](../Concepts/The%20Between.md) ← _The Void rift that shaped the Vael_
+- [[../Concepts/The Between.md]] ← _The Void rift that shaped the Vael_

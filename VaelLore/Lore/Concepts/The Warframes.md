@@ -11,7 +11,7 @@
 
 ## Kindred, Not Tools
 
-The [Orokin](../Factions/The%20Orokin.md) built the Warframes as weapons — bodies shaped and repurposed for Orokin use, carrying inside them something that was never the Orokin's to own. [[Kael]] understands this in a way that is not purely intellectual.
+The [[../Factions/The Orokin.md|Orokin]] built the Warframes as weapons — bodies shaped and repurposed for Orokin use, carrying inside them something that was never the Orokin's to own. [[Kael]] understands this in a way that is not purely intellectual.
 
 She was also a body shaped by Orokin hands for Orokin purposes. She also carries inside her something they tried to extract and use and could never fully own. The parallel is not lost on her. She has never said it aloud.
 
@@ -21,7 +21,7 @@ When she looks at a Warframe she does not see a weapon or a tool or a vehicle. S
 
 ## How She Came to Have Them
 
-[[Kael]] did not simply acquire Warframes through normal channels. A significant number of her collection she recovered herself — pulled from abandoned Orokin facilities and vaults in the aftermath of the [Orokin](../Factions/The%20Orokin.md)'s fall.
+[[../Factions/The Orokin.md|[Kael]]'s fall.
 
 She did not take them. She _freed_ them.
 
@@ -31,7 +31,7 @@ The distinction matters to her, even if no one else would notice the difference.
 
 ## Transference
 
-[[Kael]]'s connection to [The Between](The%20Between.md) — cracked open and deepened by the Orokin experiments — makes Transference feel different for her than it presumably does for the Tenno. She does not just _pilot_ a frame. She connects with it. The frames she operates do not merely respond to her — they _recognize_ her, in the way of things that have been through similar things and know the shape of it in each other.
+[[The Between.md|[Kael]] — cracked open and deepened by the Orokin experiments — makes Transference feel different for her than it presumably does for the Tenno. She does not just _pilot_ a frame. She connects with it. The frames she operates do not merely respond to her — they _recognize_ her, in the way of things that have been through similar things and know the shape of it in each other.
 
 She is careful with this. She does not rush connection. She does not force it. She meets each frame where it is.
 
@@ -94,6 +94,6 @@ These scenes depict the events described on this page, in chronological order:
 
 - [[Kael]] ← _Who pilots them and what it means to her_
 - [[Saya]] ← _Who doesn't, and why_
-- [The Orokin](../Factions/The%20Orokin.md) ← _Who built them_
-- [The Between](The%20Between.md) ← _What makes Kael's Transference different_
-- [The Gold Anchor](The%20Gold%20Anchor.md) ← _What she carries into the dangerous frames_
+- [[../Factions/The Orokin.md]] ← _Who built them_
+- [[The Between.md]] ← _What makes Kael's Transference different_
+- [[The Gold Anchor.md]] ← _What she carries into the dangerous frames_

@@ -5,11 +5,11 @@
 Occurs during the reconstruction period, after the Vael survivors have been gathered under Saya's protection.
 
 Involves:
-- [Kael](Kael.md)
-- [Saya](Saya.md)
-- [The Vael People](The%20Vael%20People.md)
+- [[Kael.md]]
+- [[Saya.md]]
+- [[The Vael People.md]]
 
-Precedes [The Exile](The%20Exile.md).
+Precedes [[The Exile.md]].
 
 ---
 

@@ -1,14 +1,14 @@
-# Scene: The Return (Not Yet)
+### Scene: The Return (Not Yet)
 
 ## Context
 
-Occurs approximately two weeks after [The Leaving After](The%20Leaving%20After.md).
+Occurs approximately two weeks after **The Leaving After**.
 
 Involves:
 
-- [Kael](Kael.md)
-- [Saya](Saya.md)
-- [Sorin](Sorin.md)
+- **Kael**
+- **Saya**
+- **Sorin**
 
 ---
 
@@ -24,15 +24,11 @@ Then she looked back at the file.
 
 The transport settled.
 
-Nothing happened for a while after that.
-
-Kael noted the silence. Noted how long it lasted. Noted what it meant that Saya had come alone, had found this place, had landed — and was still outside.
+Nothing happened for a while after that. Kael noted the silence. Noted how long it lasted. Noted what it meant that Saya had come alone, had found this place, had landed — and was still outside.
 
 Waiting.
 
 Making sure.
-
-She understood what that was.
 
 She let her sister take the time she needed.
 
@@ -40,81 +36,69 @@ She let her sister take the time she needed.
 
 Saya came through the door without announcing herself.
 
-Sorin was outside it.
+Sorin was outside it. He was standing at his post — precisely, formally, in the way of someone who has decided that if he is going to be somewhere he shouldn't, he will at least be there correctly.
 
-She stopped when she saw him. He was standing at his post — precisely, formally, in the way of someone who has decided that if he is going to be somewhere he shouldn't, he will at least be there correctly.
-
-Saya looked at him for a moment.
+Saya stopped when she saw him.
 
 "You know she's exiled," she said.
 
-"Yes."
+"Yes".
 
-"Which makes you AWOL."
+"Which makes you AWOL".
 
-"Yes."
+"Yes".
 
-She held his gaze. He held hers. Neither of them looked away.
+She held his gaze. He held hers.
 
-"I'm doing my duty," he said. "I'm doing my duty, Guarding royalty."
+"I'm doing my duty," he said. "Exile doesn't change who she is."
 
-Something moved across Saya's expression — not quite a smile, not quite irritation. Something that understood exactly what he was doing and could not entirely argue with it.
-
-She looked at him a moment longer.
-
-Then she stepped past him and through the door.
-
-He stayed outside.
+Something moved across Saya's expression. She looked at him a moment longer, then she stepped past him and through the door.
 
 ---
 
-Her eyes moved to Voruna against the wall.
+Her eyes moved to **Voruna** against the wall.
 
-She looked at it for a moment longer than she looked at anything else.
+It was the only one — the singular frame Kael had taken with her into exile. Saya looked at it for a moment longer than she looked at anything else. She saw the damage of the last six weeks: the scoring, the worn edges, and the places where the finish had been stripped and not replaced.
 
-Then she stepped inside.
+Her eyes moved to the gold trim.
+
+It was not consistent. Large sections were gone. What remained was scored and dull, degraded past the point of looking deliberate.
 
 ---
 
 "You left evidence," Saya said.
 
-"Yes."
+"Yes".
 
-"You didn't come back with it."
+"You didn't come back with it".
 
-"No."
+"No".
 
 A pause. Saya looked at the file spread across the floor. At the way each thread connected to the next, nothing floating loose, everything ordered with the particular precision of someone who had been doing this a long time and alone.
 
-"You're still building it."
+"You're still building it".
 
-"It's not airtight yet."
+"It's not airtight yet".
 
-"It doesn't need to be airtight. I saw what you left. I understand what it means." Saya's voice was steady. "I need you to tell me why you didn't come back."
+"It doesn't need to be airtight. I saw what you left. I understand what it means." Saya's voice was steady. "I need you to tell me why you didn't come back".
 
-"You exiled me."
+"You exiled me".
 
-"I need to know why you didn't come back when you had something to bring me. Why you left it unsigned. Why you're still out here."
+"I need to know why you didn't come back when you had something to bring me. Why you're still out here".
 
 ---
 
-Kael looked at the file for a moment.
+Kael looked at the file for a moment. Then she looked up.
 
-Then she looked up.
+"Because I needed to be sure".
 
-"Because I needed to be sure."
+"Of the evidence".
 
-"Of the evidence."
-
-"Of myself."
+"Of myself".
 
 Saya was quiet.
 
-"I was right," Kael said. "About the threat. I was right and I still looked exactly like what you were afraid of. And I don't—" She stopped. "I don't know how to measure the distance between those two things anymore. I don't know how to tell you I can see clearly when I can't show you my sight. When the only instrument I have for checking my own calibration is the same one the Orokin cracked open."
-
-She said this plainly.
-
-The way she said most things.
+"I was right," Kael said. "About the threat. I was right and I still looked exactly like what you were afraid of. And I don't — " She stopped. "I don't know how to measure the distance between those two things anymore".
 
 ---
 
@@ -122,11 +106,11 @@ Saya sat down.
 
 Not across from her. Beside her. Close, in the way that only one person had ever been close to her without it requiring anything.
 
-She looked at the frames again. Up close now she could see what the weeks had done to them — the scoring, the worn edges, the places where the finish had been stripped and not replaced. Her eyes moved to the gold trim. Or what remained of it.
+She looked at Voruna. Up close now she could see what the weeks had done to it — the scoring, the worn edges, the places where the finish had been stripped and not replaced. Her eyes moved to the gold trim. Or what remained of it.
 
 She looked at it for a moment without speaking.
 
-She did not know what the gold meant. She had never known. But she had always noticed it — present across every frame Kael maintained, subtle, consistent, the one thing that never changed between deployments.
+She did not know what the gold meant. She had never known. But she had always noticed it — present on Voruna, subtle, consistent, the one thing that never changed between deployments.
 
 It was not consistent now.
 
@@ -210,71 +194,47 @@ Still her.
 
 ---
 
-"I don't trust myself around you right now," she said finally.
+"You saved my life," Saya said.
 
-Saya looked at her.
+She said it simply, without ceremony, into the quiet.
 
-"Not because I would hurt you." Quickly. Clearly. "Not that. I mean—" She stopped. Started again more carefully. "You are the reason I come back. Every time. You are the thing I hold onto when the Between pulls and the frames go deep and everything else becomes—" She pressed her lips together. "If I come back and I'm still asking this question. Still not knowing if what I see can be trusted. I don't know what that does to the anchor. I don't know if I'm safe to lean on it when I'm not sure of myself."
+Kael's hand dropped. She looked at her sister, then away, toward the wall. She looked as though she had been braced for a reprimand and was instead handed a weight she did not know how to hold.
 
-A long pause.
+"In the plaza," Saya continued. "I would have been dead before the guard even saw the flash. You saved me."
 
-"I don't want to damage the only thing that has ever brought me home."
+Kael didn't look back. "I did what I was supposed to do."
 
 ---
 
-Saya's eyes moved to the frames again.
+"I don't trust myself around you right now," Kael said finally.
 
-To the gold.
+Saya looked at her.
 
-She looked at it for a moment — the scored and worn and missing trim, the long weeks of damage with nothing to repair it — and she thought about the consistency of it. Every frame, always. For years. Never varying.
+"Not because I would hurt you. I mean — you are the reason I come back. Every time. You are the thing I hold onto. If I come back and I'm still not knowing if what I see can be trusted... I don't want to damage the only thing that has ever brought me home".
 
-She still didn't know what it meant.
+---
 
-But she understood, sitting in this room, that the state of it meant something to Kael. That the damage was not just wear Kael hadn't gotten around to fixing. That it was something she had been carrying the way you carry an answer you're afraid to look at directly.
-
-Saya looked at her sister.
+Saya’s eyes moved to the gold on Voruna again. She looked at the scored and worn trim.
 
 "You waited outside for me once," she said.
 
 Kael looked at her.
 
-"The Gold Anchor Failure. You came back still in the frame and I heard it through the wall and I—" Saya's voice was even. Precise. "I stood outside your door for a moment before I came in. I have thought about that moment every day since."
+"The Gold Anchor Failure. I stood outside your door for a moment before I came in. I have thought about that moment every day since".
 
 Kael said nothing.
 
-"I came in anyway." Saya held her gaze. "That's what I'm telling you."
+"I came in anyway." Saya held her gaze. "That's what I'm telling you".
 
 ---
 
-Something shifted.
+Something shifted. A degree of loosening.
 
-Not resolution. Not the clean closing of an open thing. Just — a degree of loosening. Enough that Kael could feel the edges of herself again, the way she could always feel them when Saya was close enough to be the anchor.
+"Give me three days," Kael said.
 
-Still her.
+Saya looked at the damaged frame one more time. Then she looked at her sister and nodded.
 
-Still here.
-
-Still capable of coming home.
-
-"Give me three days," she said.
-
-It wasn't what Saya wanted.
-
-It was what Kael had.
-
-Saya looked at the damaged frames one more time.
-
-Then she looked at her sister.
-
-Then she nodded.
-
-Once.
-
-She stood, and crossed to the door, and stopped there with her back to the room.
-
-"Three days," she said.
-
-"Three days."
+"Three days".
 
 She left.
 
@@ -284,13 +244,13 @@ Kael sat in the empty relay station after the transport sound faded.
 
 She didn't look at the file.
 
-She sat with what had just happened — the specific shape of it, the fracture she hadn't known was there until it opened, the thing Saya had said that was not her fault and had broken something anyway.
+She sat with what had just happened -- the specific shape of it, the fracture she hadn't known was there until it opened, the thing Saya had said that was not her fault and had broken something anyway.
 
 She thought: _Saya waited outside._
 
 She thought: _She came in._
 
-She thought about the gold. About what it said when it was intact and what it had been saying for weeks and what Saya had just told her — not in words, not about the gold, not about anything she could have known — but said it anyway.
+She thought about the gold. About what it said when it was intact and what it had been saying for weeks and what Saya had just told her -- not in words, not about the gold, not about anything she could have known -- but said it anyway.
 
 _I came in._
 
@@ -310,11 +270,11 @@ On the third morning she sat for a while in the silence before she moved.
 
 Then she got up.
 
-She looked at the frames. At the gold — damaged still, not repaired, nothing to repair it with out here.
+She looked at Voruna. At the gold -- damaged still, not repaired, nothing to repair it with out here.
 
 She looked at it for a long moment.
 
-Then she picked up the frames.
+Then she picked up Voruna.
 
 And went home.
 
@@ -324,8 +284,10 @@ She would fix the gold when she got there.
 
 ## Notes
 
-- Saya notices the damaged gold without knowing what it means — the asymmetry holds
-- "I came in anyway" — the anchor reaffirmed not as certainty but as choice
-- Kael going home with the gold still damaged is the point: she doesn't need it repaired to believe it again. Saya told her with actions what the gold was trying to say.
+- Saya notices the damaged gold on Voruna without knowing what it means -- the asymmetry holds
+- Saya thanks Kael after the fracture moment has already opened -- not as ceremony, just the plain fact of it
+- Kael doesn't know what to do with the thanks: "I did what I was supposed to do"
+- "I came in anyway" -- the anchor reaffirmed not as certainty but as choice
+- Kael going home with the gold still damaged is the point: she doesn't need it repaired to believe it again
 - The repair happens at home. That's where it was always supposed to happen.
 - The scar: Saya now knows she waited. Kael now knows the anchor is a choice Saya makes, not a given. Both of them have to live with what that means.

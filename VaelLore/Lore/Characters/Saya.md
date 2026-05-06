@@ -8,11 +8,11 @@
 
 |**Role**|Empress, Throne, Leader|
 |---|---|
-|**People**|[Vael](The%20Vael%20People.md)|
+|**People**|[[The Vael People.md|Vael]]|
 |**Age at fall of Vaelos**|16|
 |**Operator Preset**|[[Saya Presets]]|
-|**What she doesn't know**|[The Volunteer](The%20Volunteer.md)|
-|**Home**|[Velanthas](Velanthas.md)|
+|**What she doesn't know**|[[The Volunteer.md]]|
+|**Home**|[[Velanthas.md]]|
 
 ---
 
@@ -30,17 +30,17 @@ She accepted. She has spent every day since trying to be worthy of what that acc
 
 ### Before the Fall
 
-Saya grew up on [Vaelos](Vaelos.md) three years younger than [[Kael]] and thoroughly, contentedly in her older sister's orbit. Her own connection to [The Between](The%20Between.md) was real and present but quieter than [[Kael]]'s — more like candlelight than a deep river. She was studious, observant, and deeply attached to her sister in the way of someone who has always felt safest in one particular person's presence.
+Saya grew up on [[Vaelos.md]] three years younger than [[The Between.md|[Kael]] was real and present but quieter than [[Kael]]'s — more like candlelight than a deep river. She was studious, observant, and deeply attached to her sister in the way of someone who has always felt safest in one particular person's presence.
 
 ### The Fall of Vaelos
 
-Saya was sixteen when [The Orokin](The%20Orokin.md) came. She survived because [[Kael]] made sure she survived. She was captured along with her sister and a small number of other [Vael](The%20Vael%20People.md).
+Saya was sixteen when [[The Orokin.md]] came. She survived because [[The Vael People.md|[Kael]].
 
-→ See [Vaelos](Vaelos.md) for the full account.
+→ See [[Vaelos.md]] for the full account.
 
 ### The Experiments — What She Knows and Doesn't
 
-The [Orokin](The%20Orokin.md) selected Saya for Void experimentation. She never went.
+The [[The Orokin.md|Orokin]] selected Saya for Void experimentation. She never went.
 
 [[Kael]] volunteered to take her place before she could be taken.
 
@@ -52,13 +52,13 @@ There is a mercy in not asking questions whose answers change nothing except how
 
 What she does not know — and what [[Kael]] has decided she will never know — is that every mark her sister carries was meant for her.
 
-→ See [The Volunteer](The%20Volunteer.md)
+→ See [[The Volunteer.md]]
 
 ### After the Fall of the Orokin
 
-When [The Orokin](The%20Orokin.md) collapsed, Saya took leadership of the surviving [Vael](The%20Vael%20People.md). The first act of that leadership — one of the first things she and [[Kael]] did together — was to begin building [Velanthas](Velanthas.md), the relay that would become home.
+When [[The Orokin.md]] collapsed, Saya took leadership of the surviving [[The Vael People.md|Vael]]. The first act of that leadership — one of the first things she and [[Velanthas.md|[Kael]], the relay that would become home.
 
-She chose the location deliberately. Near [Vaelos](Vaelos.md). Close enough to feel it. Far enough to function.
+She chose the location deliberately. Near [[Vaelos.md]]. Close enough to feel it. Far enough to function.
 
 She rules with patience and precision — qualities she built deliberately because the weight she carries requires steadiness she doesn't always feel.
 
@@ -90,15 +90,15 @@ The gold was also, in a way, given to her by [[Kael]] — who handed her the thr
 
 - **[[Kael]]** — Her older sister. The person she is safest with. The person she worries about most. The person she will never fully stop feeling she owes.
 - **[[Sorin]]** — [[Kael]]'s royal guard. Saya is aware of him the way she is aware of most things in her orbit — quietly, thoroughly, without making it visible. She found his name in the old Vaelos files. She knows his family served before the fall. She has noticed that his loyalty to [[Kael]] is too specific, too rooted, to be purely formal — it has the texture of something personal, something that happened. She has not yet decided whether to pull that thread.
-- **[The Vael](The%20Vael%20People.md)** — Her people. She leads them in [[Kael]]'s name and her own.
-- **[The Warframes](The%20Warframes.md)** — She leaves this to [[Kael]]. Entirely.
-- **[The Orokin](The%20Orokin.md)** — Gone. The ruins are hers to rule over now. She finds no satisfaction in this.
+- **[[The Vael People.md|The Vael]]** — Her people. She leads them in [[Kael]]'s name and her own.
+- **[[The Warframes.md]]** — She leaves this to [[Kael]]. Entirely.
+- **[[The Orokin.md]]** — Gone. The ruins are hers to rule over now. She finds no satisfaction in this.
 
 ---
 
 ## Vaelos
 
-[Velanthas](Velanthas.md) was built near [Vaelos](Vaelos.md) deliberately. Saya chose the location. She has not explained this choice to anyone at length — the practical reason is Void cloaking, the resonance of the ancient rift making the relay harder for other factions to locate.
+[[Velanthas.md]] was built near [[Vaelos.md]] deliberately. Saya chose the location. She has not explained this choice to anyone at length — the practical reason is Void cloaking, the resonance of the ancient rift making the relay harder for other factions to locate.
 
 The other reason is not practical.
 
@@ -120,16 +120,16 @@ She has decided not to pull that thread.
 
 Between them, the truth lives in the silence they have both, separately, agreed to keep.
 
-→ See [The Volunteer](The%20Volunteer.md)
+→ See [[The Volunteer.md]]
 
 ---
 
 ## See Also
 
-- [The Volunteer](The%20Volunteer.md) ← _What she doesn't know_
-- [The Between](The%20Between.md) ← _Her quieter connection to the Void_
+- [[The Volunteer.md]] ← _What she doesn't know_
+- [[The Between.md]] ← _Her quieter connection to the Void_
 - [[Saya Presets]] ← _What her gold means_
-- [Velanthas](Velanthas.md) ← _Home. Her choice of location._
+- [[Velanthas.md]] ← _Home. Her choice of location._
 
 ## Scenes
 

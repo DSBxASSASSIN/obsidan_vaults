@@ -6,7 +6,7 @@
 
 Voruna is a Warframe defined by instinct, loyalty, and controlled brutality.
 
-Where other Warframes require force or negotiation, Voruna does not resist [Kael](Kael.md).
+Where other Warframes require force or negotiation, Voruna does not resist [[Kael.md]].
 
 The connection is immediate.
 
@@ -102,6 +102,6 @@ But it may be unique in what it recognizes.
 
 ## See Also
 
-- [Kael](Kael.md)
-- [The Warframes](../Concepts/The%20Warframes.md)
-- [The Gold Anchor](../Concepts/The%20Gold%20Anchor.md)
+- [[Kael.md]]
+- [[../Concepts/The Warframes.md]]
+- [[../Concepts/The Gold Anchor.md]]

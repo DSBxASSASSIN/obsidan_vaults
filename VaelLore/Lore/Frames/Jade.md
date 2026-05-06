@@ -6,7 +6,7 @@
 
 Jade is a Warframe defined by grace under cost — something made beautiful not despite what it has endured but alongside it.
 
-[Kael](https://claude.ai/chat/Kael.md) did not expect to find this.
+[[Kael]] did not expect to find this.
 
 She finds she is glad she did.
 
@@ -118,6 +118,6 @@ She has not articulated this to anyone.
 
 ## See Also
 
-- [Kael](https://claude.ai/chat/Kael.md)
-- [The Warframes](https://claude.ai/Concepts/The%20Warframes.md)
-- [The Gold Anchor](https://claude.ai/Concepts/The%20Gold%20Anchor.md)
+- [[Kael]]
+- [[The Warframes]]
+- [[The Gold Anchor]]

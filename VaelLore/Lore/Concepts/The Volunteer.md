@@ -5,7 +5,7 @@
 
 ## Overview
 
-The Volunteer is the name for the secret at the heart of everything between [[Kael]] and [[Saya]] — the fact that [[Kael]] chose to take her younger sister's place in the [Orokin](../Factions/The%20Orokin.md) experiments, and has never told her.
+The Volunteer is the name for the secret at the heart of everything between [[../Factions/The Orokin.md|[Kael]] experiments, and has never told her.
 
 It is not a page about a heroic act. It is a page about what that act costs, quietly, every day.
 
@@ -13,7 +13,7 @@ It is not a page about a heroic act. It is a page about what that act costs, qui
 
 ## What Happened
 
-When the [Orokin](../Factions/The%20Orokin.md) captured the surviving [Vael](../Factions/The%20Vael%20People.md) following the fall of [Vaelos](../Locations/Vaelos.md), their researchers selected subjects for Void experimentation — attempts to understand and extract the [Vael's natural Void connection](The%20Between.md) for Orokin use.
+When the [[../Factions/The Orokin.md|Orokin]] captured the surviving [[../Factions/The Vael People.md|Vael]] following the fall of [[../Locations/Vaelos.md]], their researchers selected subjects for Void experimentation — attempts to understand and extract the [[The Between.md|Vael's natural Void connection]] for Orokin use.
 
 [[Saya]] was selected first.
 
@@ -29,7 +29,7 @@ She did not beg. She did not negotiate. She stated it — clearly, simply, in th
 
 She came back from the fifth with a new scar along her jaw and a silence that lasted three days.
 
-She came back from the sessions that followed with less she was willing to show, and something behind her eyes that had not been there before and has never fully left — a depth of connection to [The Between](The%20Between.md) that went beyond anything her training had produced, as if the Void itself had noticed what was being done to her and moved closer.
+She came back from the sessions that followed with less she was willing to show, and something behind her eyes that had not been there before and has never fully left — a depth of connection to [[The Between.md]] that went beyond anything her training had produced, as if the Void itself had noticed what was being done to her and moved closer.
 
 She told [[Saya]] nothing specific. An administrative change in the selection. Nothing to worry about. [[Saya]] was young and frightened and accepted it, at first. As the damage accumulated and the silences lengthened, she stopped believing the explanation and started believing something worse — that something terrible was happening to her sister, that it had been happening for a long time, that there was nothing she could do about it.
 
@@ -62,7 +62,7 @@ She carries guilt for what she suspects. She would be destroyed by the truth. [[
 
 She made the choice freely, in the full understanding of what she was choosing. She would make it again. She does not want [[Saya]] to know because she does not want her sister to live under the weight of it — not because she is angry, but because protecting [[Saya]] from that weight is itself an extension of the same love that made her volunteer in the first place.
 
-She carries the physical marks. She carries the altered connection to [The Between](The%20Between.md) — cracked open in ways that sometimes frighten her. She carries the knowledge of what was done to her in those rooms, which she has never shared with anyone.
+She carries the physical marks. She carries the altered connection to [[The Between.md]] — cracked open in ways that sometimes frighten her. She carries the knowledge of what was done to her in those rooms, which she has never shared with anyone.
 
 None of this, in her accounting, is a burden. It is simply the cost of the thing she chose. She paid it. [[Saya]] is safe. The accounting is complete.
 
@@ -112,5 +112,5 @@ These scenes depict the events described on this page, in chronological order:
 
 - [[Kael]] ← _The one who volunteered_
 - [[Saya]] ← _The one who doesn't know_
-- [The Orokin](../Factions/The%20Orokin.md) ← _Those who made it necessary_
-- [The Between](The%20Between.md) ← _What the experiments did to Kael's connection_
+- [[../Factions/The Orokin.md]] ← _Those who made it necessary_
+- [[The Between.md]] ← _What the experiments did to Kael's connection_

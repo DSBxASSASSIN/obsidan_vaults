@@ -10,7 +10,7 @@ It does not ask whether the cost is fair.
 
 It simply pays it.
 
-[Kael](https://claude.ai/chat/Kael.md) understands this completely.
+[[Kael]] understands this completely.
 
 ---
 
@@ -112,6 +112,6 @@ No one asks why.
 
 ## See Also
 
-- [Kael](https://claude.ai/chat/Kael.md)
-- [The Warframes](https://claude.ai/Concepts/The%20Warframes.md)
-- [The Gold Anchor](https://claude.ai/Concepts/The%20Gold%20Anchor.md)
+- [[Kael]]
+- [[The Warframes]]
+- [[The Gold Anchor]]

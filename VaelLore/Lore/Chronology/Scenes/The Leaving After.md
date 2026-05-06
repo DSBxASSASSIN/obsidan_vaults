@@ -6,10 +6,10 @@ Occurs approximately six weeks into the exile period.
 
 Involves:
 
-- [Kael](https://claude.ai/chat/Kael.md)
-- [Saya](https://claude.ai/chat/Saya.md)
-- [Sorin](https://claude.ai/chat/Sorin.md)
-- [The Warframes](https://claude.ai/chat/The%20Warframes.md)
+- [[Kael]]
+- [[Saya]]
+- [[Sorin]]
+- [[The Warframes]]
 
 ---
 
@@ -244,7 +244,7 @@ She didn't need to.
 ## Notes
 
 - Kael leaves Sorin and Voruna at the abandoned relay — she goes back to Velanthas alone to steal Cyte-09
-- Cyte-09 — never worn in the field, left at her own nest when she steps back from the edge
+- Cyte-09 has no gold trim — never worn in the field, left at her own nest when she steps back from the edge
 - Guards lock on the contact's position; Saya looks to Kael's — watches her leave, then lets herself be moved inside
 - The gold reflection happens at sunset — Velanthas burning gold in the last light, the kind that belongs to no one
 - She returns to the abandoned relay with nothing on her — Sorin reads her face, not a frame

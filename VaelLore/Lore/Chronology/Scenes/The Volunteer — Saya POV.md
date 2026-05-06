@@ -1,9 +1,9 @@
 # Scene: The Volunteer — Saya POV
 
 ## Context
-Occurs during [The Volunteer](The%20Volunteer.md) involving:
-- [Kael](Kael.md)
-- [The Orokin](The%20Orokin.md)
+Occurs during [[The Volunteer.md]] involving:
+- [[Kael.md]]
+- [[The Orokin.md]]
 
 ---
 

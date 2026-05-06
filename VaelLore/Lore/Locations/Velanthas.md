@@ -6,7 +6,7 @@
 
 ## Overview
 
-Velanthas is the relay the surviving [Vael](The%20Vael%20People.md) built near the ruins of [Vaelos](Vaelos.md) — the home [[Saya]] and [[Kael]] made for what remained of their people after the fall of the [Orokin](The%20Orokin.md).
+Velanthas is the relay the surviving [[The Vael People.md|Vael]] built near the ruins of [[Vaelos.md]] — the home [[The Orokin.md|[Saya]].
 
 It is not the home they lost. It was never meant to be. It is the home they built with the hands they had left, near the place they came from, because the alternative was to drift so far from that place that it would stop mattering.
 
@@ -28,7 +28,7 @@ The colors throughout are black and deep crimson. The colors of the Vael. The co
 
 ## Location
 
-Velanthas sits near [Vaelos](Vaelos.md) — close enough that the ancient Void rift running through the planet is a constant low presence in the relay's environment. The [Between](The%20Between.md) hums through the walls here in a way that is quieter than standing on the surface would be, but present enough that Vael-touched people feel it as familiar.
+Velanthas sits near [[Vaelos.md]] — close enough that the ancient Void rift running through the planet is a constant low presence in the relay's environment. The [[The Between.md|Between]] hums through the walls here in a way that is quieter than standing on the surface would be, but present enough that Vael-touched people feel it as familiar.
 
 This proximity serves a practical purpose: the resonance of the rift creates a natural interference that makes the relay significantly harder to locate by outside factions. Void cloaking is not perfect, but it is consistent, and Velanthas has remained undetected by those who would find its existence inconvenient.
 
@@ -99,6 +99,6 @@ Velanthas has no direct translation — it is a Vael word that carries the sense
 - [[Saya]] ← _Who chose the location. Who rules from here._
 - [[Kael]] ← _Who keeps her frames here. Who comes back here._
 - [[Sorin]] ← _Who was among the first to build it._
-- [Vaelos](Vaelos.md) ← _What it was built near._
-- [The Vael People](The%20Vael%20People.md) ← _Who it was built for._
-- [The Between](The%20Between.md) ← _What hums through its walls._
+- [[Vaelos.md]] ← _What it was built near._
+- [[The Vael People.md]] ← _Who it was built for._
+- [[The Between.md]] ← _What hums through its walls._

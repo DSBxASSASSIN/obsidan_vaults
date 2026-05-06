@@ -48,7 +48,7 @@ The difference matters. Restraint implies conflict. The gold implies no conflict
 
 ## The Dangerous Frames
 
-These are the frames where the gold carries its deepest meaning — where the connection to [The Between](The%20Between.md) pulls hardest and the line between [[Kael]] and what she is channelling requires conscious holding:
+These are the frames where the gold carries its deepest meaning — where the connection to [[The Between.md]] pulls hardest and the line between [[Kael]] and what she is channelling requires conscious holding:
 
 ### Garuda
 
@@ -76,7 +76,7 @@ It does not say _I am loved._ It says _I was._
 
 She looks at it anyway, and feels the absence of the thing it used to tell her.
 
-→ See [The Exile](The%20Exile.md) — _When the gold first begins to fail._ → See [The Distance](The%20Distance.md) — _What she reads in the damage._ → See [The Return Not Yet](The%20Return%20Not%20Yet.md) — _What it means to come back with it still broken._
+→ See [[The Exile.md]] — _When the gold first begins to fail._ → See [[The Distance.md]] — _What she reads in the damage._ → See [[The Return Not Yet.md]] — _What it means to come back with it still broken._
 
 ---
 
@@ -109,4 +109,4 @@ These scenes depict the events described on this page, in chronological order:
 - [[Kael]] ← _Who wears it and why_
 - [[Saya]] ← _The reason it exists_
 - [[Kael Presets]] ← _Where the gold appears_
-- [The Warframes](The%20Warframes.md) ← _The frames that need the anchor most_
+- [[The Warframes.md]] ← _The frames that need the anchor most_

@@ -6,9 +6,9 @@ Occurs during the exile period. No single event — a compression of weeks.
 
 Involves:
 
-- [Kael](Kael.md)
-- [Saya](Saya.md)
-- [Sorin](Sorin.md)
+- [[Kael.md]]
+- [[Saya.md]]
+- [[Sorin.md]]
 
 Two separate threads, not occurring simultaneously. They do not interact in this scene.
 

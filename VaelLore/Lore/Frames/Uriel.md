@@ -8,7 +8,7 @@ Uriel is a Warframe built in the language of light — radiant, structured, carr
 
 That language is Orokin.
 
-[Kael](https://claude.ai/chat/Kael.md) does not trust languages she has heard before.
+[[Kael]] does not trust languages she has heard before.
 
 ---
 
@@ -118,6 +118,6 @@ Uriel made her feel it.
 
 ## See Also
 
-- [Kael](https://claude.ai/chat/Kael.md)
-- [The Warframes](https://claude.ai/Concepts/The%20Warframes.md)
-- [The Gold Anchor](https://claude.ai/Concepts/The%20Gold%20Anchor.md)
+- [[Kael]]
+- [[The Warframes]]
+- [[The Gold Anchor]]

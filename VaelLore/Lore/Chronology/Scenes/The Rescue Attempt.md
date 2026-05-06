@@ -1,4 +1,4 @@
-# Scene: The Rescue Attempt
+# Scene: The Attempt
 
 ## Context
 
@@ -6,9 +6,9 @@ Occurs on the day of the fall of Vaelos.
 
 Involves:
 
-- [Sorin](Sorin.md)
-- [Kael](Kael.md) — present but unreachable
-- [Saya](Saya.md) — present but unreachable
+- [[Sorin]]
+- [[Kael]] — present but unreachable
+- [[Saya]] — present but unreachable
 
 ---
 

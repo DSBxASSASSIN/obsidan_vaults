@@ -2,14 +2,14 @@
 
 ## Context
 
-Occurs shortly after [The Watch](The%20Watch.md).
+Occurs shortly after [[The Watch.md]].
 
 Involves:
 
-- [Kael](Kael.md)
-- [Saya](Saya.md)
-- [Sorin](Sorin.md)
-- [The Vael People](The%20Vael%20People.md)
+- [[Kael.md]]
+- [[Saya.md]]
+- [[Sorin.md]]
+- [[The Vael People.md]]
 
 ---
 

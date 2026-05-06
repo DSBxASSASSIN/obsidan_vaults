@@ -1,0 +1,18 @@
+{
+  "obsidian-link-converter:convert-mdlinks-to-wiki-in-vault": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-link-converter:convert-wikis-to-md-in-vault": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": ","
+    }
+  ]
+}
