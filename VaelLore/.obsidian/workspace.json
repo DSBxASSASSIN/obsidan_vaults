@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
-                "mode": "preview",
+                "file": "Lore/Chronology/Scenes/The Weight of the Room.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Repairing the Gold rewrite"
+              "title": "The Weight of the Room"
+            }
+          },
+          {
+            "id": "15cc46aa0975b128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Chronology/Scenes/What She Said.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "What She Said"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
+                "file": "Lore/Chronology/Scenes/What She Said.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Repairing the Gold rewrite"
+              "title": "Outline of What She Said"
             }
           }
         ],
@@ -184,21 +200,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "79eb03a5771afbe1",
+  "active": "15cc46aa0975b128",
   "lastOpenFiles": [
+    "Lore/Chronology/Scenes/Two Conversations.md",
+    "Lore/Chronology/Scenes/What She Said.md",
+    "Untitled",
+    "The Collection.md",
+    "Lore/Chronology/Scenes/The Weight of the Room.md",
+    "Lore/Chronology/Scenes/The Stubborn Garden.md",
+    "Lore/Chronology/Scenes/The Return Not Yet.md",
+    "Lore/Chronology/Scenes/The Rescue Attempt.md",
     "Lore/Chronology/Scenes/Repairing the Gold.md",
+    "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
     "Lore/Chronology/Scenes/First Contact.md",
     "Lore/Chronology/Scenes/The Volunteer — Saya POV.md",
     "Lore/Chronology/Scenes/The Volunteer — Session One.md",
-    "Lore/Chronology/Scenes/The Return Not Yet.md",
     "Lore/Frames/Jade.md",
-    "Lore/Chronology/Scenes/The Rescue Attempt.md",
     "Lore/Characters/Sorin.md",
     "Lore/Chronology/Scenes/The Leaving After.md",
     "Lore/Chronology/Scenes/The Palace.md",
     "Lore/Chronology/Scenes/Uriel's Killing Spree.md",
     "Lore/Frames/Harrow.md",
-    "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
     "Lore/Frames/Uriel.md",
     "Lore/Chronology/Scenes/The relay quietly.md",
     "Lore/Chronology/Scenes/The Locked Room.md",
@@ -208,11 +230,6 @@
     "The Orokin.md",
     "Lore/Factions/The Orokin.md",
     "Repairing the Gold.md",
-    "copilot/copilot-conversations/i_like_the_amount_of_detail_more_from_the_old@20260430_125309.md",
-    "Lore/Chronology/Scenes/The Gold Anchor — Failure.md",
-    "Lore/Chronology/Scenes/The Watch.md",
-    "Lore/Chronology/Scenes/The First Time Saya Saw.md",
-    "Lore/Chronology/Scenes/The Exile.md",
     "FashionFrame/pictues from ingame.canvas",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
@@ -233,7 +250,6 @@
     "pictures/characters/Kael/kael close up.jpg",
     "pictures/characters/Kael/kael front.jpg",
     "pictures/characters/Saya/saya close up.jpg",
-    "Lore/Chronology",
-    "Untitled.base"
+    "Lore/Chronology"
   ]
 }
