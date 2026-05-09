@@ -6,9 +6,9 @@ Occurs during the Vaelos rebuilding operation planning period — a formal meeti
 
 Involves:
 
-- [Kael](https://claude.ai/chat/Kael.md)
-- [Saya](https://claude.ai/chat/Saya.md)
-- [Sorin](https://claude.ai/chat/Sorin.md)
+- [[Kael]]
+- [[Saya]]
+- [[Sorin]]
 - High command
 
 ---
