@@ -6,13 +6,13 @@
 
 ## At a Glance
 
-|**Role**|Empress, Throne, Leader|
-|---|---|
-|**People**|[[The Vael People.md|Vael]]|
-|**Age at fall of Vaelos**|16|
-|**Operator Preset**|[[Saya Presets]]|
-|**What she doesn't know**|[[The Volunteer.md]]|
-|**Home**|[[Velanthas.md]]|
+| **Role**                  | Empress, Throne, Leader |
+| ------------------------- | ----------------------- |
+| **People**                | [[The Vael People.md]]  |
+| **Age at fall of Vaelos** | 16                      |
+| **Operator Preset**       | [[Saya Presets]]        |
+| **What she doesn't know** | [[The Volunteer.md]]    |
+| **Home**                  | [[Velanthas.md]]        |
 
 ---
 

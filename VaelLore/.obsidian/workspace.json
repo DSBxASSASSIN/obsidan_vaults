@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21f4e63fb927bb59",
+        "id": "c795c11b2b3ecb0c",
         "type": "tabs",
         "children": [
           {
-            "id": "79eb03a5771afbe1",
+            "id": "895cc3fea25d1a01",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lore/Chronology/Scenes/1_scene timeline.canvas",
-                "viewState": {
-                  "x": -480,
-                  "y": 480,
-                  "zoom": 0
-                }
+                "file": "Lore/Characters/Sorin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1_scene timeline"
+              "icon": "lucide-file",
+              "title": "Sorin"
             }
           }
         ]
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenes/First Contact.md",
+                "file": "Lore/Characters/Sorin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for First Contact"
+              "title": "Backlinks for Sorin"
             }
           },
           {
@@ -116,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenes/First Contact.md",
+                "file": "Lore/Characters/Sorin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from First Contact"
+              "title": "Outgoing links from Sorin"
             }
           },
           {
@@ -159,17 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Chronology/Scenes/The Collection.md",
+                "file": "Lore/Characters/Sorin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Collection"
+              "title": "Outline of Sorin"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,35 +184,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "79eb03a5771afbe1",
+  "active": "895cc3fea25d1a01",
   "lastOpenFiles": [
-    "Lore/Chronology/Scenes/1_scene timeline.canvas",
     "Lore/Chronology/Scenes/The Collection.md",
-    "Lore/Chronology/Scenes/The relay quietly.md",
-    "Lore/Chronology/Scenes/The Weight of the Room.md",
-    "Lore/Chronology/Scenes/The Remark and The Room.md",
-    "Lore/Chronology/Scenes/The Stubborn Garden.md",
-    "Lore/Chronology/Scenes/The Recovery.md",
-    "Lore/Chronology/Scenes/Two Conversations.md",
+    "Orokin.md",
+    "Lore/Chronology/Scenes/The Collection 1.md",
+    "Lore/Characters/Sorin.md",
+    "Lore/Characters/Saya.md",
+    "Lore/Characters/Kael.md",
+    "Lore/Chronology/Scenes/Uriel's Killing Spree.md",
+    "Lore/Chronology/Scenes/The Locked Room.md",
     "Lore/Chronology/Scenes/Repairing the Gold rewrite.md",
+    "Lore/Chronology/Scenes/Repairing the Gold.md",
+    "Lore/Concepts/The Warframes.md",
+    "Lore/Chronology/Scenes/The Gold Anchor — Failure.md",
+    "Lore/Chronology/Scenes/The First Time Saya Saw.md",
+    "Lore/Chronology/Scenes/The Exile.md",
+    "Lore/Chronology/Scenes/The Distance.md",
+    "Lore/Chronology/Scenes/First Contact.md",
     "Lore/Chronology/Scenes/What She Said.md",
-    "Untitled",
-    "The Collection.md",
+    "Lore/Chronology/Scenes/Two Conversations.md",
+    "Lore/Chronology/Scenes/The Weight of the Room.md",
+    "Lore/Chronology/Scenes/The Watch.md",
+    "Lore/Chronology/Scenes/The Volunteer — Session One.md",
+    "Lore/Chronology/Scenes/The Volunteer — Saya POV.md",
+    "Lore/Chronology/Scenes/The Stubborn Garden.md",
     "Lore/Chronology/Scenes/The Return Not Yet.md",
     "Lore/Chronology/Scenes/The Rescue Attempt.md",
-    "Lore/Chronology/Scenes/Repairing the Gold.md",
-    "Lore/Chronology/Scenes/First Contact.md",
-    "Lore/Chronology/Scenes/The Volunteer — Saya POV.md",
-    "Lore/Chronology/Scenes/The Volunteer — Session One.md",
-    "Lore/Frames/Jade.md",
-    "Lore/Characters/Sorin.md",
-    "Lore/Chronology/Scenes/The Leaving After.md",
-    "Lore/Chronology/Scenes/The Palace.md",
-    "Lore/Chronology/Scenes/Uriel's Killing Spree.md",
-    "Lore/Frames/Harrow.md",
-    "Lore/Frames/Uriel.md",
-    "Lore/Chronology/Scenes/The Locked Room.md",
-    "Lore/Characters/Kael.md",
+    "Lore/Chronology/Scenes/The Remark and The Room.md",
+    "Lore/Chronology/Scenes/1_scene timeline.canvas",
+    "Untitled",
     "FashionFrame/pictues from ingame.canvas",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",

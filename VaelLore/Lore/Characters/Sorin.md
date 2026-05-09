@@ -6,13 +6,13 @@
 
 ## At a Glance
 
-|**Role**|Royal Guard|
-|---|---|
-|**People**|[[Vael]]|
-|**Age at fall of Vaelos**|19|
-|**Stationed**|The Relay — home of the surviving Vael|
-|**What he carries**|The failed rescue. The sole survival. What he heard through the walls.|
-|**What he shows**|None of it.|
+| **Role**                  | Royal Guard                                                            |
+| ------------------------- | ---------------------------------------------------------------------- |
+| **People**                | [[The Vael People]]                                                    |
+| **Age at fall of Vaelos** | 19                                                                     |
+| **Stationed**             | The Relay — home of the surviving Vael                                 |
+| **What he carries**       | The failed rescue. The sole survival. What he heard through the walls. |
+| **What he shows**         | None of it.                                                            |
 
 ---
 
@@ -64,7 +64,7 @@ He has never said what he heard.
 
 ### After the Fall
 
-When the [[Orokin]] collapsed, Sorin found [[Kael]] in the aftermath. He recognized immediately what the months had done to her and said nothing. He presented himself as what he was — a surviving guard candidate, trained, Vael, with nowhere else to be.
+When the [[The Orokin|Orokin]] collapsed, Sorin found [[Kael]] in the aftermath. He recognized immediately what the months had done to her and said nothing. He presented himself as what he was — a surviving guard candidate, trained, Vael, with nowhere else to be.
 
 She accepted him.
 

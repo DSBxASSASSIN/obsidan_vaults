@@ -6,13 +6,13 @@
 
 ## At a Glance
 
-|**Role**|Protector, Blade, Operative|
-|---|---|
-|**People**|[[The Vael People|Vael]]|
-|**Age at fall of Vaelos**|19|
-|**Drifter Presets**|[[Kael Presets.md]]|
-|**Key secret**|[[The Volunteer.md]]|
-|**Home**|[[Velanthas.md]]|
+| **Role**                  | Protector, Blade, Operative |
+| ------------------------- | --------------------------- |
+| **People**                | [[The Vael People]]         |
+| **Age at fall of Vaelos** | 19                          |
+| **Drifter Presets**       | [[Kael Presets.md]]         |
+| **Key secret**            | [[The Volunteer.md]]        |
+| **Home**                  | [[Velanthas.md]]            |
 
 ---
 
